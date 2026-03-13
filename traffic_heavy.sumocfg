@@ -1,0 +1,13 @@
+<configuration>
+
+    <input>
+        <net-file value="sumo_env/network/intersection.net.xml"/>
+        <route-files value="sumo_env/routes/heavy_random.rou.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="1200"/>
+    </time>
+
+</configuration>
